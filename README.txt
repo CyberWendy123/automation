@@ -16,9 +16,9 @@ code break down
 	prettyCharacterCount.py
 -	ch 6 - manipulating strings 
 -	ch 7 - pattern matching with regular expressions 
-	isPhoneNumber.py 
+	isPhoneNumber.py 	find that phone number! 
 -	ch 8 - reading and writing files 
--	ch 9 - organizing fiels 
+-	ch 9 - organizing files 
 -	ch 10 - debugging 
 -	ch 11 - web scrapping 
 -	ch 12 - working with excel spreadsheets 
