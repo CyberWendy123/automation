@@ -1,4 +1,5 @@
 based on https://automatetheboringstuff.com/#toc 
+currently: https://automatetheboringstuff.com/chapter11/
 
 code break down 
 -	ch 1 - python basics 
