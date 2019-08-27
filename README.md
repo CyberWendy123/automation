@@ -2,7 +2,7 @@ based on https://automatetheboringstuff.com/#toc
 currently: https://automatetheboringstuff.com/chapter11/
 
 code break down 
--	ch 1 - python basics 
+ch 1 - python basics 
 	first.py 
 -	ch 2 - flow control 
 -	ch 3 - functions 
