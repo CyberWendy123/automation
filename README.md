@@ -1,34 +1,34 @@
-based on https://automatetheboringstuff.com/#toc 
-currently: https://automatetheboringstuff.com/chapter11/
-
-code break down 
-ch 1 - python basics 
-	first.py 
-ch 2 - flow control 
-ch 3 - functions 
-	helloFunc.py
-	helloFunc2.py
-	magic8ball.py
-	A short program: guess the number 	guessTheNumber.py
-ch 4 - lists 
-ch 5 - dictionaries and structuring data 
-	birthdays.py
-	characterCount.py 	understanding setdefault() method 
-	prettyCharacterCount.py
-ch 6 - manipulating strings 
-ch 7 - pattern matching with regular expressions 
-	isPhoneNumber.py 	find that phone number! 
-ch 8 - reading and writing files 
-ch 9 - organizing files 
-ch 10 - debugging 
-ch 11 - web scrapping 
-ch 12 - working with excel spreadsheets 
-ch 13 - working with PDF and word documents 
-ch 14 - working with CSV feels and JSON data 
-ch 15 - keeping time, scheduling tasks, and launching programs 
-ch 16 - sending email and text messages 
-ch 17 - manipulating images 
-ch 18 - controlling the keyboard and mouse with GUI automation 
+based on https://automatetheboringstuff.com/#toc  <br />
+currently: https://automatetheboringstuff.com/chapter11/  <br />
+<br />
+code break down  <br />
+ch 1 - python basics  <br />
+	first.py  <br />
+ch 2 - flow control  <br />
+ch 3 - functions  <br />
+	helloFunc.py <br />
+	helloFunc2.py <br />
+	magic8ball.py <br />
+	A short program: guess the number 	guessTheNumber.py <br />
+ch 4 - lists  <br />
+ch 5 - dictionaries and structuring data  <br />
+	birthdays.py <br />
+	characterCount.py 	understanding setdefault() method  <br />
+	prettyCharacterCount.py <br />
+ch 6 - manipulating strings  <br />
+ch 7 - pattern matching with regular expressions  <br />
+	isPhoneNumber.py 	find that phone number!  <br />
+ch 8 - reading and writing files  <br />
+ch 9 - organizing files  <br />
+ch 10 - debugging  <br />
+ch 11 - web scrapping  <br />
+ch 12 - working with excel spreadsheets  <br />
+ch 13 - working with PDF and word documents  <br />
+ch 14 - working with CSV feels and JSON data  <br />
+ch 15 - keeping time, scheduling tasks, and launching programs  <br />
+ch 16 - sending email and text messages  <br />
+ch 17 - manipulating images  <br />
+ch 18 - controlling the keyboard and mouse with GUI automation  <br />
 
 Extra 
 -	ch 3: functions: 
